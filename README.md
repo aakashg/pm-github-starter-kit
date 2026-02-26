@@ -1,52 +1,79 @@
 # PM GitHub Starter Kit
 
-Everything you need to set up a GitHub profile that demonstrates PM skills. Fork this repo and follow the checklist.
+Profile templates, project README templates, AI coding prompts, and a 3-week checklist to build a GitHub that gets you hired.
 
-Built by [Aakash Gupta](https://www.aakashg.com) as a companion to the [How to Build a PM GitHub](https://www.news.aakashg.com) deep dive.
+**24% of PM candidates have a GitHub. The latest PMs I placed at OpenAI, Anthropic, and Meta AI all had one.**
+
+This is the companion repo to [How to Build a PM GitHub](https://www.news.aakashg.com) — the web's first guide on PM GitHub profiles.
+
+---
 
 ## What's Inside
 
 ```
 pm-github-starter-kit/
 ├── templates/
-│   ├── PROFILE-README.md      # Copy this as your GitHub profile README
-│   └── PROJECT-README.md      # Use this for every project you build
+│   ├── PROFILE-README.md      # Your GitHub profile landing page
+│   └── PROJECT-README.md      # README template for every project you build
 ├── prompts/
 │   ├── create-repo.md         # Cursor/Claude Code: create a new repo
 │   ├── build-project.md       # Cursor/Claude Code: build your first agent
 │   ├── commit-and-push.md     # Cursor/Claude Code: save and publish
 │   └── write-readme.md        # Cursor/Claude Code: generate documentation
-├── CHECKLIST.md               # Your first 3 weeks on GitHub
+├── CHECKLIST.md               # Your 3-week roadmap from zero to live
 └── .gitignore                 # Python project defaults
 ```
 
-## How to Use This
+## Quick Start
 
-**Option 1: Fork it.** Click "Fork" in the top right. Now you have your own copy to customize.
-
-**Option 2: Use it as reference.** Browse the templates and prompts. Copy what you need into your own projects.
+1. **Fork this repo** (click "Fork" in the top right)
+2. **Follow [CHECKLIST.md](CHECKLIST.md)** — your day-by-day plan
+3. **Use the templates** in `templates/` for your profile and project READMEs
+4. **Copy the prompts** in `prompts/` into Cursor or Claude Code to build, commit, and document
 
 ## The 3-Week Plan
 
-See [CHECKLIST.md](CHECKLIST.md) for the full timeline. The short version:
+| When | What | Use |
+|------|------|-----|
+| **Day 1** | Set up your profile | `templates/PROFILE-README.md` |
+| **Day 2** | Build and ship your first project | `prompts/build-project.md` |
+| **Week 2** | Create your flagship project | `prompts/create-repo.md` |
+| **Week 3** | Polish docs, add screenshots, publish | `prompts/write-readme.md` |
 
-- **Day 1:** Set up your profile using the profile README template
-- **Day 2:** Build your first project using the prompts
-- **Week 2:** Create your flagship project
-- **Week 3:** Polish documentation, add screenshots, publish
+See [CHECKLIST.md](CHECKLIST.md) for the full checklist with every step.
 
-## Why This Exists
+## What Makes a Great PM GitHub
 
-24% of PM candidates have a GitHub. If you're one of them, you're already ahead. This kit gets you from zero to a working PM GitHub in 3 weeks.
+Based on analyzing profiles like [Shubham Saboo's](https://github.com/Shubhamsaboo) (78K+ stars, went from Dev Rel to Senior AI PM at Google):
 
-Every PM I've placed at a top AI company in the last year had a GitHub. Start here.
+1. **One flagship project that solves a real problem** — not scattered toy repos
+2. **Crystal clear positioning** — your bio says what you build in one line
+3. **Consistent contribution activity** — recent activity beats total stars
+4. **Strategic forks and contributions** — contribute to tools in your target domain
+5. **Documentation that shows product thinking** — tradeoffs, decisions, learnings
+6. **The portfolio effect** — repos that tell a story together
+
+The `PROJECT-README.md` template bakes in the sections hiring managers look for: Problem, Solution, Tradeoffs, and What I Learned.
+
+## What to Avoid
+
+- **Copy-paste repos** — if you can't explain why you chose OpenAI over Claude, you don't understand what you built
+- **Joke projects** — a dad-joke chatbot proves nothing about PM skills
+- **Green square farming** — hiring managers click the squares. Empty commits are an anti-signal
+- **Engineer cosplay** — let AI write clean code. You focus on problem statements, UX, and documentation
+- **One-and-done** — a dormant GitHub is worse than no GitHub. Build one small thing per week
 
 ## Related
 
-- [Product Growth Newsletter](https://www.news.aakashg.com)
+- [How to Build a PM GitHub](https://www.news.aakashg.com) — the full deep dive
 - [How to Land an AI PM Job](https://www.aakashg.com)
 - [AI Agent Guide for PMs](https://www.aakashg.com)
+- [Product Growth Newsletter](https://www.news.aakashg.com)
 
 ## License
 
 MIT. Use it however you want.
+
+---
+
+Built by [Aakash Gupta](https://www.aakashg.com) | [Product Growth](https://www.news.aakashg.com)
