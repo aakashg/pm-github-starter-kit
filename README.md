@@ -1,3 +1,5 @@
+> **This repo is for [Product Growth](https://www.news.aakashg.com) paid subscribers only.** Please do not share or redistribute. If you found this link somewhere other than your subscription, [subscribe here](https://www.news.aakashg.com).
+
 # PM GitHub Starter Kit
 
 Profile templates, project README templates, AI coding prompts, and a 3-week checklist to build a GitHub that gets you hired.
@@ -72,7 +74,7 @@ The `PROJECT-README.md` template bakes in the sections hiring managers look for:
 
 ## License
 
-MIT. Use it however you want.
+For personal use by Product Growth subscribers only. Do not redistribute or share publicly.
 
 ---
 
