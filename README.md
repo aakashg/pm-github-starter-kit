@@ -6,7 +6,7 @@ Profile templates, project README templates, AI coding prompts, and a 3-week che
 
 **24% of PM candidates have a GitHub. The latest PMs I placed at OpenAI, Anthropic, and Meta AI all had one.**
 
-This is the companion repo to [How to Build a PM GitHub](https://www.news.aakashg.com) — the web's first guide on PM GitHub profiles.
+This is the companion repo to [How to Build a PM GitHub](https://www.news.aakashg.com/p/you-should-build-a-pm-github) — the web's first guide on PM GitHub profiles.
 
 ---
 
@@ -67,7 +67,7 @@ The `PROJECT-README.md` template bakes in the sections hiring managers look for:
 
 ## Related
 
-- [How to Build a PM GitHub](https://www.news.aakashg.com) — the full deep dive
+- [How to Build a PM GitHub](https://www.news.aakashg.com/p/you-should-build-a-pm-github) — the full deep dive
 - [How to Land an AI PM Job](https://www.aakashg.com)
 - [AI Agent Guide for PMs](https://www.aakashg.com)
 - [Product Growth Newsletter](https://www.news.aakashg.com)
